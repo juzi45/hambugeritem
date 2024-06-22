@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "hambugeritems:item/chocolate_burger_bottom"
+  }
+}
