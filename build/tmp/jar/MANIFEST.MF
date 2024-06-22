@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: hambugeritem
+Specification-Vendor: juyue
+Specification-Version: 1
+Implementation-Title: hambugeritem
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: juyue
+Implementation-Timestamp: 2024-06-22T18:53:09+0800
+MixinConfigs: hambugeritem.mixins.json
+

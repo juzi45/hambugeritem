@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "hambugeritem:item/chicken_nuggets"
+  }
+}
